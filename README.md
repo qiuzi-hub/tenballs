@@ -1,5 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+每一次点击鼠标会添加一次小球，且小球会自己旋转。当满十个的时候会将最初创建的小球消灭掉，这样又可以再创建一个新的小球，使出现在场景中的球总共只有十个。
